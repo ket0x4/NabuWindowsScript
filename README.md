@@ -8,11 +8,21 @@
 You have to install latest powershell here: <https://github.com/PowerShell/PowerShell>
 - Follow main guide here: <https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5>
 
+## To-do
+
+- [ ] Add credits
+- [ ] Add stock boot
+- [ ] Add failsafe
+- [ ] Convert script to oop
+- [ ] Use GUI for Disk and Device selection
+- [ ] Replace hardcoded url's
+
 ## Requirements
 
 - Windows 10/11
 - Xiaomi Pad 5 (Nabu)
 - Cable
+- Windows wim file (You can get from any windows iso)
 
 ## Usage
 
